@@ -1,4 +1,4 @@
-# Aluraflix - Plataforma de Vídeos
+# Aluraflix - Plataforma de Vídeos - Java Spring Boot API REST
 
 O Aluraflix é uma aplicação de plataforma de vídeos construída com Java Spring Boot, que permite aos usuários visualizar e gerenciar uma coleção de vídeos.
 
