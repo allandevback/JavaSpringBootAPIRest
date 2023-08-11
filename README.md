@@ -22,7 +22,7 @@ O Aluraflix é uma aplicação de plataforma de vídeos construída com Java Spr
 
 ## Configuração do Ambiente
 
-1. Clone este repositório: `git clone https://github.com/seu-usuario/seu-repositorio.git`
+1. Clone este repositório: `git clone https://github.com/allannmsilva/JavaSpringBootAPIRest.git`
 2. Navegue até o diretório do projeto: `cd aluraflix`
 3. Configure as informações do banco de dados no arquivo `application.properties` ou `application.yml`.
 4. Execute a aplicação: `mvn spring-boot:run` ou `./gradlew bootRun`.
